@@ -1,4 +1,4 @@
-# Developing a Geospatial Recommendation Engine with K-Means Clustering
+# Sentiment Analysis of YouTube Viewer Comments
 
 ## The objective is to assess the collective sentiment of viewers across different YouTube videos. Specifically, I aim to determine whether the overall sentiment is predominantly positive, negative, or neutral.
 
